@@ -1,0 +1,9 @@
+LANDING PAGE CUPECE - TEMPLATE SIMPLES
+
+Arquivos: index.html, style.css e script.js.
+Para visualizar, abra o index.html no navegador.
+
+Antes de publicar:
+- Troque 5511999999999 pelo WhatsApp real da loja.
+- Atualize textos e imagens conforme a loja.
+- As imagens são externas e precisam de internet.
